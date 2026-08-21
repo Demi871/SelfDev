@@ -1,0 +1,10 @@
+{
+    "name": "Self-Dev",
+    "short_name": "Self-Dev",
+    "description": "A tiny daily self-development companion.",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#f4f1f7",
+    "theme_color": "#f4f1f7",
+    "orientation": "portrait"
+}
